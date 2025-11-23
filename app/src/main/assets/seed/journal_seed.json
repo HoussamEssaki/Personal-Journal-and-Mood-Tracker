@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Morning gratitude",
+    "content": "Felt calm after yoga and wrote down three wins.",
+    "mood": "GOOD",
+    "tags": ["#gratitude", "#mindfulness"]
+  },
+  {
+    "title": "Tough meeting",
+    "content": "Discussed blockers with the team, felt stressed but optimistic.",
+    "mood": "POOR",
+    "tags": ["#work", "#focus"]
+  }
+]

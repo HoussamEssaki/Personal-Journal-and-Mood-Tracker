@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Personal Journal &amp; Mood Tracker</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="journal_title">Journal</string>
+    <string name="editor_title">New Entry</string>
+    <string name="analytics_title">Analytics</string>
+    <string name="settings_title">Settings</string>
+    <string name="lock_title">Unlock Your Journal</string>
+    <string name="pin_prompt">Enter your PIN to continue</string>
+    <string name="pin_error">Incorrect PIN. Try again.</string>
+    <string name="biometric_prompt">Authenticate to unlock your journal</string>
+    <string name="empty_state_title">Start your journey</string>
+    <string name="empty_state_body">Capture moods, gratitude, and insights even when offline.</string>
+    <string name="action_add_entry">New entry</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_export">Generate export</string>
+    <string name="action_retry">Retry</string>
+    <string name="reminder_daily">Daily reminder</string>
+    <string name="reminder_weekly">Weekly reminder</string>
+    <string name="language_label">Language</string>
+    <string name="theme_label">Theme</string>
+    <string name="security_label">Security</string>
+    <string name="insights_title">Trends &amp; Insights</string>
+    <string name="filters_label">Filter by</string>
+    <string name="search_hint">Search entries…</string>
+    <string name="tags_label">Tags</string>
+    <string name="moods_label">Moods</string>
+    <string name="media_label">Media</string>
+    <string name="export_pdf">PDF Journal</string>
+    <string name="export_csv">CSV for analysis</string>
+    <string name="export_success">Export saved securely</string>
+    <string name="export_failure">Export failed</string>
+</resources>
